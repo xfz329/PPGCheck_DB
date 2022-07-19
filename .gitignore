@@ -1,0 +1,19 @@
+
+# files
+# 
+# 
+# data
+*.mat
+*.txt
+
+# fig
+*.fig
+
+#temp files
+*.asv
+
+
+
+# Dirs
+/data
+
